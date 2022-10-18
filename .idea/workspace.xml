@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebefc1ff-83b6-4afc-ab2f-47ea495d8b46" name="Changes" comment="changes 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tekparams/OOPS/Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Address">
+    <configuration name="Address" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekparams.OOPS.Address" />
+      <module name="Selenium17Oct2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekparams.OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekparams.OOPS.HelloWorld3" />
       <module name="Selenium17Oct2" />
@@ -56,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Address" />
         <item itemvalue="Application.HelloWorld3" />
       </list>
     </recent_temporary>
